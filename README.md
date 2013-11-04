@@ -1,6 +1,6 @@
-# TODO: スライドのタイトル
+# Elixir 触ってみた @ Ruby 札幌 28
 
-TODO: スライドの説明
+[Ruby勉強会@札幌-28](http://ruby-sapporo.org/news/2013/10/18/workshop-28.html) で発表した [elixir-lang](http://elixir-lang.org/) の資料です．
 
 ## 作者向け
 
@@ -21,4 +21,3 @@ TODO: スライドの説明
 ### 表示
 
     rabbit rabbit-slide-niku-introduction-of-the-elixir-lang-at-ruby-sapporo-28.gem
-
